@@ -47,4 +47,6 @@
     callPackage ./impact-pack {};
   impact-subpack =
     callPackage ./impact-subpack {};
+  flux-trainer =
+    callPackage ./flux-trainer {};
 }
